@@ -1,6 +1,13 @@
+<<<<<<< HEAD
 Doctor
 Teacher
 Pilot
 Army
 Driver
 Watchman
+=======
+Bus
+Car
+Train
+Bike
+>>>>>>> 9015ab0 (commited)
