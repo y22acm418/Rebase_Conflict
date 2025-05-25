@@ -1,0 +1,6 @@
+Doctor
+Teacher
+Pilot
+Army
+Driver
+Watchman
